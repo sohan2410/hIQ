@@ -1,3 +1,5 @@
 done with the 
 login / sign up
 for instagram
+
+logical part for forgot/reset password
